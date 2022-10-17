@@ -1,0 +1,9 @@
+export const HOST = "http://18.140.1.121";
+export const API = HOST + "/api";
+export const CLASS_TEACHER_SUBJECT = API + "/class_teacher_subject";
+export const SUBJECT = API + "/subject";
+export const CLASSES = API + "/myclass";
+export const TCS = API + "/class_teacher_subject/";
+export const HELPLINES = API + "/helplines";
+export const REVISION = API + "/revision/admin";
+export const USER = API + "/user";
